@@ -1,6 +1,8 @@
 <?php
 
 
+
+// teste afonso CONSEGUEM VER?
 use App\Http\Requests\CartConfirmationFormRequest;
 use Illuminate\Http\Request;
 use Illuminate\View\View;
