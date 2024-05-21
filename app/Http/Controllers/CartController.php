@@ -1,8 +1,6 @@
 <?php
 
 namespace App\Http\Controllers;
-
-
 use App\Http\Requests\CartConfirmationFormRequest;
 use Illuminate\Http\Request;
 use Illuminate\View\View;
